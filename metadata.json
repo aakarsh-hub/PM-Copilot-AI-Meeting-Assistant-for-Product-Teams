@@ -1,0 +1,7 @@
+{
+  "name": "PM Copilot - AI Meeting Assistant",
+  "description": "A multi-modal AI assistant for Product Managers that converts meetings into structured artifacts like PRDs, Roadmaps, and Decisions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
